@@ -1,2 +1,2 @@
-# Synthetic-Basketball-Python-Prediction-Project.
+# Synthetic-Basketball-Python-Prediction-Project
 A data project that harnesses machine learning to predict game outcomes with precision. Uncovering hidden drivers of team performance (offense/defense ratings, chemistry, momentum, etc.) and built robust models (Random Forest, XGBoost, Gradient Boosting) that forecast winners and quantify uncertainty, empowering teams to make data-driven decisions.
